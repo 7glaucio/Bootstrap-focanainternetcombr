@@ -134,6 +134,29 @@ input:-webkit-autofill:focus {
     padding: 120px 0;
 }
 
+#service-page {
+    padding: 25px 0;
+}
+
+#marketing-digital {
+    padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+#clientes {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+#criacao-site-redes-sociais {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+#contato {
+    padding-top: 35px;
+}
+
 .social-menu {
     list-style: none;
     margin: 0;
