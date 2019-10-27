@@ -153,6 +153,11 @@ input:-webkit-autofill:focus {
     padding-bottom: 20px;
 }
 
+#criacao-site-redes-sociais-title {
+    padding-bottom: 0px;
+    margin-bottom: -40px;
+}
+
 #contato {
     padding-top: 35px;
 }
