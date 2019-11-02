@@ -812,6 +812,19 @@ input:-webkit-autofill:focus {
 *Footer-area
 ***/
 
+footer{
+    bottom: 0;
+    width: 100%;
+}
+
+.footer {
+    height: 100px;
+    margin: auto;
+    width: 400px;
+    text-align: center;
+    padding:10px;
+}
+
 .footer-area {
     padding-top: 120px;
     z-index: 1;
